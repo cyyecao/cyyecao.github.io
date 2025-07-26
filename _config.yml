@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yanyu Chen"
-  pronouns         : "a researcher"  
+  pronouns         : #"a researcher"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
   employer         : "East China Normal University"
-  uri              : # URL
-  email            : "51275901058@stu.ecnu.edu.cn \n 1924286676@qq.com" 
+  uri              : "https://cyyecao.github.io/"
+  email            : "51275901058@stu.ecnu.edu.cn" 
 
   # Academic websites
   academia         : # URL
